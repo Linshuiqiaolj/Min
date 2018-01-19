@@ -79,10 +79,15 @@
 									class="layui-icon">&#xe857;</i><span> 权限管理</span></a>
 							</dd>
 							<dd>
-                                <a href="javascript:;" kit-target
-                                    data-options="{url:'seller/user.jsp',icon:'&#xe857;',title:'卖家管理',id:'7'}"><i
-                                    class="layui-icon">&#xe857;</i><span> 卖家管理</span></a>
-                            </dd>
+								<a href="javascript:;" kit-target
+								    data-options="{url:'seller/user.jsp',icon:'&#xe857;',title:'卖家管理',id:'7'}"><i
+								    class="layui-icon">&#xe857;</i><span> 卖家管理</span></a>
+							</dd>
+							<dd>
+								<a href="javascript:;" kit-target
+								   data-options="{url:'auditSeller/user.jsp',icon:'&#xe857;',title:'审核卖家',id:'7'}"><i
+										class="layui-icon">&#xe857;</i><span> 审核卖家 </span></a>
+							</dd>
 						</dl></li>
 					<li class="layui-nav-item"><a class="" href="javascript:;"><i
 							class="layui-icon">&#xe857;</i><span> 商品管理</span></a>
